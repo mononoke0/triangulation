@@ -1,3 +1,3 @@
 # triangulation
 Delaunay triangulation without library. 
-starting: python pointer_ope.py
+how to use: python pointer_ope.py
