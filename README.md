@@ -11,4 +11,4 @@ Delaunay triangulation without library.
 三角形分割を行う
 ### reference
 - http://tercel-sakuragaoka.blogspot.com/2011/06/processingdelaunay.html
-- http://tercel-sakuragaoka.blogspot.com/2011/06/processingdelaunay_3958.html
+- http://tercel-sakuragaoka.blogspot.com/2011/06/processingdelaunay_3958.html 
